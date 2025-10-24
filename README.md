@@ -31,7 +31,7 @@ This CSS file is part of a broader design strategy to enhance branding and user 
 
 ## 🛠️ Built With
 
-- Manual CSS design and editing in VS Code  
+- CSS design and editing in VS Code  
 - Prompt engineering + AI-assisted debugging
 
 ---
